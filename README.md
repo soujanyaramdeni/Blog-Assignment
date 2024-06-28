@@ -23,8 +23,7 @@ Theme Switcher: Allows users to toggle between light and dark themes, with persi
 ## Project Structure
 
 - `src/` - Contains the source code of the application.
-  - `components/` - Reusable components used throughout the application.
-  - `redux/` - Redux setup including actions, reducers, and store configuration.
+  - `components/` - Reusable components used throughout the application..
   - `App.js` - Main application component.
   - `index.js` - Entry point of the application.
 - `public/` - Public assets and the HTML template.
